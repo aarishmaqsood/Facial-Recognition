@@ -14,7 +14,7 @@ This project uses facial recognition to control gate access, automatically openi
 
 ## Setup
 
-1. **Install Dependencies**: Ensure you have Python 3.x installed and then install the required Python packages using:
+1. **Install Dependencies**: Ensure you have Python 3.10 installed and then install the required Python packages using:
 
    ```bash
    pip install -r requirements.txt
